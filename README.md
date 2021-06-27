@@ -32,7 +32,7 @@ robotbasedatabase.PNG
 robotbaseinterface.PNG
 صوره للواجهه
 
-robotbase.jpg
+robot.jpg
 كإضافه قمت بإدراج صوره تم استخدامها كخلفيه للواجهه
 
 robotbase.mp4
