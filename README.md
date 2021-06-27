@@ -28,13 +28,15 @@ robotbase.php
 
 robotbasedatabase.PNG
   صوره لقاعدة البيانات
+
 robotbaseinterface.PNG
 صوره للواجهه
 
 robotbase.jpg
 كإضافه قمت بإدراج صوره تم استخدامها كخلفيه للواجهه
+
 robotbase.mp4
-وكذلك فيديو سريع لتوضيح عملي
-شكرا لكم
+ فيديو سريع لتوضيح عملي
+
 
 
